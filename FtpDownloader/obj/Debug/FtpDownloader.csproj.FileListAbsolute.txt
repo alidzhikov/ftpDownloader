@@ -1,0 +1,6 @@
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\bin\Debug\FtpDownloader.exe.config
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\obj\Debug\FtpDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\bin\Debug\FtpDownloader.exe
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\bin\Debug\FtpDownloader.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\obj\Debug\FtpDownloader.exe
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\FtpDownloader\FtpDownloader\obj\Debug\FtpDownloader.pdb
